@@ -3,7 +3,8 @@ Project from Internet Application course in BUPT
 
 Requirements Analysis<br>
 Development Environment<br>
-1. Windows system with FileZilla client and FileZilla server 2. Oracle VirtualBox with Linux Ubuntu<br>
+1. Windows system with FileZilla client and FileZilla server 
+2. Oracle VirtualBox with Linux Ubuntu<br>
 3. C language<br>
 
 Detailed Function Requirements<br>
